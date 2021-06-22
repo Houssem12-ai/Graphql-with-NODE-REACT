@@ -8,5 +8,5 @@ app.use('/graphql',graphqlHTTP({}));//GraphQL middleware requires options.
 
 const PORT = 4014;
 app.listen(PORT, () => {
-    console.log('server is up and running')
+    console.log('server is up and runninggg')
 })
